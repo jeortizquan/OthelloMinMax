@@ -1,0 +1,56 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\Documents\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+D:\Documents and Settings\Rony\Mis documentos\Visual Studio 2008\Projects\MinMax_Algorithm5\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\Desktop\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+D:\Documents and Settings\Rony\Mis documentos\Descargas\MinMax_Algorithm\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\bin\Release\MinMax_Algorithm.pdb
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.MainForm.resources
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.Properties.Resources.resources
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.csproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.exe
+C:\Users\Jorge\Desktop\MinMax_Algorithm_Ultimo\MinMax_Algorithm\MinMax_Algorithm\obj\Release\MinMax_Algorithm.pdb
